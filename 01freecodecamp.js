@@ -3,7 +3,7 @@
 //     item = arr.shift(arr[0]);
 //     // console.log(arr);
 //   // Only change code below this line
-  
+
 //   return arr;
 //   // Only change code above this line
 // }
